@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.jis{
+    padding-left: 5%;
+    
+}
+.slider{
+    height: 70%;
+    width: 100%;
+}
+.fees{
+    float: right;
+    padding-right: 5%;
+}
+.fees a{
+    text-decoration: none;
+   color: white;
+
+}
+.fees a:hover{
+    color:darkolivegreen;
+    
+}
+.image{
+    width: 80px;
+    height: 70px;
+    padding-left: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+   
+}
